@@ -1,4 +1,4 @@
-# Udemy Angular the Complete Guide(2024) - Course made by: Maximilian Schwarzmüller  ( Total hours: 36.5 total hours )
+## Udemy Angular the Complete Guide(2024) - Course made by: Maximilian Schwarzmüller  ( Total hours: 36.5 total hours )
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
