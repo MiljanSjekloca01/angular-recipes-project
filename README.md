@@ -1,4 +1,4 @@
-## Udemy Angular the Complete Guide(2024) - Course made by: Maximilian Schwarzmüller  ( Total hours: 36.5 total hours )
+## Udemy Angular the Complete Guide(2024) - Course made by: Maximilian Schwarzmüller  ( 36.5 total hours )
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
@@ -18,4 +18,4 @@ This is a simple Angular project where I practiced most of the key concepts in A
 4. Observables, Subject, BehaviourSubject
 5. Directives and Pipes
 6. Forms ( TD Forms and reactive Forms )
-7. Http requests to Firebase and authentication
+7. Http requests to Firebase and Authentication
